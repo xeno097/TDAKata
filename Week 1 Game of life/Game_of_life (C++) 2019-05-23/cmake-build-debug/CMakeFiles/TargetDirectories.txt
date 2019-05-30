@@ -1,0 +1,3 @@
+C:/Users/sebyf/CLionProjects/untitled299/cmake-build-debug/CMakeFiles/untitled299.dir
+C:/Users/sebyf/CLionProjects/untitled299/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sebyf/CLionProjects/untitled299/cmake-build-debug/CMakeFiles/rebuild_cache.dir

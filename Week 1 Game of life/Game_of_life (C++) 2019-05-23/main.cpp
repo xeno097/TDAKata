@@ -45,7 +45,7 @@ void print_grid(){
 
 int main() {
 
-    ifstream file("S:\\Desktop\\test.txt"); // replace with the directory of your test file
+    ifstream file("S:\\Desktop\\test.txt");
     string str;
 
     getline(file,str);
