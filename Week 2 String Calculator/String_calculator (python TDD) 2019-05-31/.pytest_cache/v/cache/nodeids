@@ -1,0 +1,10 @@
+[
+  "String_calc/test_pytest.py::test_with012_return6",
+  "String_calc/test_pytest.py::test_empty_return0",
+  "String_calc/test_pytest.py::test_withmanynums_returnsum",
+  "String_calc/test_pytest.py::test_withnewline_and_manynumbers_returnsum",
+  "String_calc/test_pytest.py::test_withseparatorafterseparator_givesanerror",
+  "String_calc/test_pytest.py::test_withseparatorattheend_givesaneeror",
+  "String_calc/test_pytest.py::test_withnewseparator_returnsum",
+  "String_calc/test_pytest.py::test_withnegatives_throwsvalueerror"
+]

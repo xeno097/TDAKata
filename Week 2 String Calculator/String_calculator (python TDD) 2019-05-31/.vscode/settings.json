@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "String_calc\\Scripts\\python.exe",
+    "python.testing.pyTestArgs": [
+        "String_calc"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true
+}
