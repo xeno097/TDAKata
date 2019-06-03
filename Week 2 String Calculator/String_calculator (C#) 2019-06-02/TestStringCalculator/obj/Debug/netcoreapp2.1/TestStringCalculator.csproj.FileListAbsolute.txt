@@ -1,0 +1,17 @@
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\TestStringCalculator.deps.json
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\TestStringCalculator.runtimeconfig.json
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\TestStringCalculator.runtimeconfig.dev.json
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\TestStringCalculator.dll
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\obj\Debug\netcoreapp2.1\TestStringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\obj\Debug\netcoreapp2.1\TestStringCalculator.AssemblyInfoInputs.cache
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\obj\Debug\netcoreapp2.1\TestStringCalculator.AssemblyInfo.cs
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\obj\Debug\netcoreapp2.1\TestStringCalculator.csprojAssemblyReference.cache
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\TestStringCalculator.pdb
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\String_calculator.dll
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\bin\Debug\netcoreapp2.1\String_calculator.pdb
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\obj\Debug\netcoreapp2.1\TestStringCalculator.csproj.CopyComplete
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\obj\Debug\netcoreapp2.1\TestStringCalculator.dll
+C:\Users\sebyf\source\repos\String_calculator\TestStringCalculator\obj\Debug\netcoreapp2.1\TestStringCalculator.pdb
