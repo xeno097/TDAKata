@@ -1,0 +1,10 @@
+[
+  "Range_Kata/test_pytest.py::test_withrange26_and_24_return_true",
+  "Range_Kata/test_pytest.py::test_withrange26_and_list11610_return_false",
+  "Range_Kata/test_pytest.py::test_withrange26_orint2345",
+  "Range_Kata/test_pytest.py::test_containsrange",
+  "Range_Kata/test_pytest.py::test_endpoints",
+  "Range_Kata/test_pytest.py::test_overlaps",
+  "Range_Kata/test_pytest.py::test_equals",
+  "Range_Kata/test_pytest.py::test_arenotequals"
+]

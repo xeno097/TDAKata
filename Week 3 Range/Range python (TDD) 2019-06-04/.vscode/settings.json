@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "Range_Kata\\Scripts\\python.exe",
+    "python.testing.pyTestArgs": [
+        "Range_Kata"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true
+}
