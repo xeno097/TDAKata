@@ -1,1 +1,9 @@
-{}
+{
+  "Range_Kata/Lib/site-packages/importlib_metadata/tests/test_api.py": true,
+  "Range_Kata/Lib/site-packages/importlib_metadata/tests/test_main.py": true,
+  "Range_Kata/Lib/site-packages/importlib_metadata/tests/test_zip.py": true,
+  "Range_Kata/Lib/site-packages/more_itertools/tests/test_more.py": true,
+  "Range_Kata/Lib/site-packages/more_itertools/tests/test_recipes.py": true,
+  "Range_Kata/Lib/site-packages/wcwidth/tests/test_core.py": true,
+  "Range_Kata/test_pytest.py": true
+}

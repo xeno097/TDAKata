@@ -1,0 +1,5 @@
+[
+  "word_wrapper/test_pytest.py::test_WithEmptyString_Returns_EmptyString",
+  "word_wrapper/test_pytest.py::test_WithTwoWordsAndLEqualsToLenghtOfOneOfTheTwoLength_Returns_TwoWordsSeparetedbyNewline",
+  "word_wrapper/test_pytest.py::test_WithWordsAndALength_Returns_TheWordsCorrectlySeparatedByNewlines"
+]

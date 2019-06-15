@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "word_wrapper\\Scripts\\python.exe",
+    "python.testing.pyTestArgs": [
+        "word_wrapper"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true
+}
