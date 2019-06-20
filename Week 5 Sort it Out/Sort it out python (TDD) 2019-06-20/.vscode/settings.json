@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "sort_it_out\\Scripts\\python.exe",
+    "python.testing.pyTestArgs": [
+        "sort_it_out"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true
+}

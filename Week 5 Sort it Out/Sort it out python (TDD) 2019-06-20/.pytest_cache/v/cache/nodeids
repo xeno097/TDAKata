@@ -1,0 +1,9 @@
+[
+  "sort_it_out/test_pytest.py::test_WithEmptyList_returns_EmptyList",
+  "sort_it_out/test_pytest.py::test_WithOneNumber_returns_OneNumberList",
+  "sort_it_out/test_pytest.py::test_WithTwoNumbers_returns_TwoNumberList",
+  "sort_it_out/test_pytest.py::test_WithThreeNumbers_returns_SortedNumberList",
+  "sort_it_out/test_pytest.py::test_WithEmptyString_Return_EmptyString",
+  "sort_it_out/test_pytest.py::test_WithOneChar_Return_OneChar",
+  "sort_it_out/test_pytest.py::test_WithStringChar_Returns_SortedStringChar"
+]
