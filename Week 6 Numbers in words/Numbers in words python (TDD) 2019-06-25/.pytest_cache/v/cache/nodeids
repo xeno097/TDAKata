@@ -1,0 +1,9 @@
+[
+  "numbers_in_words/test_pytest.py::test_With1_returns_OneDollar",
+  "numbers_in_words/test_pytest.py::test_With2_returns_TwoDollars",
+  "numbers_in_words/test_pytest.py::test_With15_returns_FifteenDollars",
+  "numbers_in_words/test_pytest.py::test_With23_returns_TwentyThreeDollars",
+  "numbers_in_words/test_pytest.py::test_With123_returns_OneHundredTwentyThreeDollars",
+  "numbers_in_words/test_pytest.py::test_With573_returns_FiveHundredSeventyThreeDollars",
+  "numbers_in_words/test_pytest.py::test_With1573_returns_FiveHundredSeventyThreeDollars"
+]

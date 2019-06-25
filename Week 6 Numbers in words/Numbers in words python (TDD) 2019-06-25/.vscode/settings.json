@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "numbers_in_words\\Scripts\\python.exe",
+    "python.testing.pyTestArgs": [
+        "numbers_in_words"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true
+}
