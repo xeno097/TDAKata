@@ -1,0 +1,12 @@
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\bin\Debug\netcoreapp3.0\NumberInWords.exe
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\bin\Debug\netcoreapp3.0\NumberInWords.deps.json
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\bin\Debug\netcoreapp3.0\NumberInWords.runtimeconfig.json
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\bin\Debug\netcoreapp3.0\NumberInWords.runtimeconfig.dev.json
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\bin\Debug\netcoreapp3.0\NumberInWords.dll
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\bin\Debug\netcoreapp3.0\NumberInWords.pdb
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\obj\Debug\netcoreapp3.0\NumberInWords.csprojAssemblyReference.cache
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\obj\Debug\netcoreapp3.0\NumberInWords.csproj.CoreCompileInputs.cache
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\obj\Debug\netcoreapp3.0\NumberInWords.AssemblyInfoInputs.cache
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\obj\Debug\netcoreapp3.0\NumberInWords.AssemblyInfo.cs
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\obj\Debug\netcoreapp3.0\NumberInWords.dll
+C:\Users\sebyf\source\repos\NumberInWords\NumberInWords\obj\Debug\netcoreapp3.0\NumberInWords.pdb

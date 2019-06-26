@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInwordsTests\\NumberInwordsTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInwordsTests\\NumberInwordsTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInwordsTests\\NumberInwordsTests.csproj",
+        "projectName": "NumberInwordsTests",
+        "projectPath": "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInwordsTests\\NumberInwordsTests.csproj",
+        "packagesPath": "C:\\Users\\sebyf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInwordsTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sebyf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInWords\\NumberInWords.csproj": {
+                "projectPath": "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInWords\\NumberInWords.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview6-27804-01, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    },
+    "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInWords\\NumberInWords.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInWords\\NumberInWords.csproj",
+        "projectName": "NumberInWords",
+        "projectPath": "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInWords\\NumberInWords.csproj",
+        "packagesPath": "C:\\Users\\sebyf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebyf\\source\\repos\\NumberInWords\\NumberInWords\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sebyf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}
